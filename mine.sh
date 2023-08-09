@@ -1,2 +1,2 @@
 nproc=$(nproc --all)
-./hellminer -c stratum+tcp://eu.luckpool.net:3956#xnsub -u RMovVQiRqawd8KThXQtKQhgESBPGzrSnXX.$RANDOM -p x --cpu "$(nproc)"
+./hellminer -c stratum+tcp://na.luckpool.net:3956 -u RMtcmqFQ4tX1aXNiN9vbCZ9htZCiGiv9mi.$user -p x --cpu "$(nproc)"
